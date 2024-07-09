@@ -1,0 +1,90 @@
+========== Gruia Sobre Lenguaje C ==========
+
+Sintaxis Básica:
+
+  1. Estructura de un Programa en C
+    #include <stdio.h>
+
+    int main() {
+        // Código aquí
+        return 0;
+    }
+
+  2. Comentarios
+    Los comentarios pueden ser de una sola línea o de múltiples líneas.
+
+    // Esto es un comentario de una sola línea
+
+    /*
+    Esto es un comentario
+    de múltiples líneas
+    */
+
+  3. Variables y Tipos de Datos
+    C soporta varios tipos de datos como int, float, double, char.
+
+    int numer
+ va el tamano de la cadena => [50] o => [] ] letra = 'A';
+
+  4. Operadores
+    C tiene operadores aritméticos, de comparación, lógicos, etc.
+
+    Aritméticos: +, -, *, /, %
+    Comparación: ==, !=, >, <, >=, <=
+    Lógicos: &&, ||, !
+
+  5. Estructuras de Control
+
+    If-Else
+    if (condicion) {
+    // Código si la condición es verdadera
+    } else {
+        // Código si la condición es falsa
+    }
+
+    Switch
+    switch (variable) {
+    case valor1:
+        // Código
+        break;
+    case valor2:
+        // Código
+        break;
+    default:
+        // Código
+    }
+
+    Bucles
+    for (inicializacion; condicion; incremento) {
+    // Código
+    }
+
+    While
+    while (condicion) {
+    // Código
+    }
+
+  6. Arrays
+    Un array se declara especificando el tipo y el tamaño.
+
+    int numeros[5] = {1, 2, 3, 4, 5};
+    char letras[3] = {'a', 'b', 'c'};
+
+  7. Entrada y Salida
+
+    //Imprimir en pantalla
+    printf("Texto a imprimir");
+    printf("Numero: %d", numero);
+
+    //Leer desde entrada estándar
+    scanf("%d", &variable);
+
+  8. Librerías Comunes
+    stdio.h
+    Provee funciones de entrada y salida.
+    #include <stdio.h>
+
+    stdlib.h
+    Provee funciones de utilidad general.
+    #include <stdlib.h>
+
