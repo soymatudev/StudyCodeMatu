@@ -23,8 +23,10 @@ Sintaxis Básica:
   3. Variables y Tipos de Datos
     C soporta varios tipos de datos como int, float, double, char.
 
-    int numer
- va el tamano de la cadena => [50] o => [] ] letra = 'A';
+    int numero = 10;
+    float decimal = 5.5;
+    double grande = 10.123456;
+    char[] letra = 'A';
 
   4. Operadores
     C tiene operadores aritméticos, de comparación, lógicos, etc.
