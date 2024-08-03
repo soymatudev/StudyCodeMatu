@@ -25,6 +25,13 @@ int main()
                 coleccion[j + 1] = aux;
             }
         }
+        // Imprimir la coleccion ordenada por vuelta
+        printf("\nColeccion ordenada Por vuelta: ");
+        printf("%d \n", i);
+        for (int i = 0; i < n; i++)
+        {
+            printf("%d \n", coleccion[i]);
+        }
     }
 
     // Imprimir la coleccion ordenada
