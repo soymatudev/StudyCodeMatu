@@ -1,4 +1,4 @@
-# Conjuntos 📋
+# Palindromo 📋
 
 - Escribe una función que reciba un texto y retorne verdadero o falso (Boolean) según sean o no palíndromos.
 
