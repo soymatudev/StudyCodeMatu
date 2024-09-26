@@ -10,7 +10,7 @@ _Desarrollar la lógica en programación es crucial porque permite resolver prob
 
 _¿Qué cosas necesitas para comenzar con tus ejercicios?_
 
-- IDE o editor de código (yo uso VS Code).
+- IDE o editor de código (VS Code, Sublime Text, Vim, Atom(Descanse en paz), etc).
 - Lenguaje de tu preferencia.
 
 - [MatuDev](https://github.com/soymatudev) - Apoya a **MatuDev** en su **Github**
@@ -18,3 +18,7 @@ _¿Qué cosas necesitas para comenzar con tus ejercicios?_
 ### Adicional 📋
 
 - [Retos MoureDev](https://retosdeprogramacion.com/ejercicios/) - Estos ejercicios fueron realizados a partir de los **Retos de Programación** de MoureDev
+
+### Disfruta Mientras Estudias 📋
+
+- [LoFi Girl](https://www.youtube.com/@LofiGirl) - La música LoFi perfecta para estudiar.
