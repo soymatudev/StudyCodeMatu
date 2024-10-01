@@ -1,10 +1,20 @@
-## Comandos Básicos de Git y GitHub
+## Comandos Básicos de Git y GitHub 🚀
 
 ### Inicialización y Configuración
 | Descripción del comando | Comando |
 |---|---|
 | Inicializa un nuevo repositorio Git en el directorio actual | git init |
 | Configura tu nombre y correo electrónico | git config --global user.name "Tu Nombre" <br> git config --global user.email "[dirección de correo electrónico eliminada]" |
+
+### Inicialización Básica de un Nuevo Repositorio
+| Descripción del comando | Comando |
+|---|---|
+| Inicializa un nuevo repositorio Git en el directorio actual | git init |
+| Agrega todos los archivos nuevos | git add . |
+| Crea un nuevo commit con los cambios | git commit -m "first commit" |
+| Cambia el nombre de la Rama principal de Master a Main | git branch -M main |
+| Indica la direcció de tu repositorio en Github | git remote add origin git@github.com:soymatudev/Ejemplo.git |
+| Sube los cambios anadidos a tu repositorio remoto | git push -u origin main |
 
 ### Seguimiento de Archivos
 | Descripción del comando | Comando |
