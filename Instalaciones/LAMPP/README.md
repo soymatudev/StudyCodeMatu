@@ -1,4 +1,3 @@
-
 # XAMPP / LAMPP☕
 
 ### XAMPP es el entorno más popular de desarrollo con PHP
