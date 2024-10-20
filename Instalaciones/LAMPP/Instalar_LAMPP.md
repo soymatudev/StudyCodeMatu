@@ -4,6 +4,16 @@
 
 XAMPP es una distribución de Apache completamente gratuita y fácil de instalar que contiene **MariaDB, PHP y Perl**. El paquete de instalación de XAMPP ha sido diseñado para ser increíblemente fácil de instalar y usar.
 
+# Instalación XAMPP en Sistema Windows
+
+Descarga e instala Xampp según la versión de tu sistema operativo Windows.
+
+- Sigue las instrucciones que te indica la propia instalación de xampp
+
+- Sola Siguiente a todo si no quieres entrar en problemas de configuración
+
+- [Download Xampp for Windows](https://www.apachefriends.org/es/index.html)
+
 # Instalación LAMPP en Sistema Fedora
 
 ### 1. Actualizar el sistema

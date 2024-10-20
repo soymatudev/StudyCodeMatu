@@ -11,7 +11,7 @@ Git is **easy to learn** and has a tiny footprint with lightning fast performanc
 
 Descarga e instala Git según la versión de tu sistema operativo Windows.
 
-- Sigue las instrucciones que te indica la propia instalacion de git
+- Sigue las instrucciones que te indica la propia instalación de git
 
 - [Download Git for Windows](https://git-scm.com/downloads/win)
 
