@@ -15,7 +15,7 @@
     Representando bloque con ⏹︎ y agua con 💧, quedarán atrapadas 7 unidades
     de agua. Suponemos que existe un suelo impermeable en la parte inferior
     que retiene el agua.
- */
+*/
  
 using System;
 using System.Collections.Generic;
