@@ -6,12 +6,15 @@
  
   - Ejemplo: Dado el array [4, 0, 3, 6, 1, 3].
  
-          ⏹
-          ⏹
-    ⏹💧💧⏹
-    ⏹💧⏹⏹💧⏹
-    ⏹💧⏹⏹💧⏹
-    ⏹💧⏹⏹⏹⏹
+    
+    ```bash
+              ⏹
+              ⏹
+        ⏹💧💧⏹
+        ⏹💧⏹⏹💧⏹
+        ⏹💧⏹⏹💧⏹
+        ⏹💧⏹⏹⏹⏹
+    ```
  
     Representando bloque con ⏹︎ y agua con 💧, quedarán atrapadas 7 unidades
     de agua. Suponemos que existe un suelo impermeable en la parte inferior
