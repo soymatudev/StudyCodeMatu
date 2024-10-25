@@ -18,7 +18,7 @@
 */
 using System;
 
-public class HelloWorld
+public class CoordenadasRobot
 {
     public static void Main(string[] args)
     {
