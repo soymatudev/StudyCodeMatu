@@ -1,7 +1,7 @@
 /*
   Calcula dónde estará un robot (sus coordenadas finales) que se
   encuentra en una cuadrícula representada por los ejes "x" e "y".
-  
+
   - El robot comienza en la coordenada (0, 0).
   - Para idicarle que se mueva, le enviamos un array formado por enteros
     (positivos o negativos) que indican la secuencia de pasos a dar.
@@ -27,8 +27,6 @@ public class HelloWorld
         int[] coordenadas = robot.mover(pasos);
         Console.WriteLine("La coordenadas finales del Robot son: [{0}, {1}]", coordenadas[0], coordenadas[1]);
     }
-    
-     
 }
 
 public class Robot {
