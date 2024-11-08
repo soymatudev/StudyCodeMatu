@@ -76,7 +76,7 @@ Descarga e instala PostgreSQL según la versión de tu sistema operativo Windows
   sudo systemctl enable postgresql
 ```
 
-- Cargamos con initdb para que inicie con toda la configuracion:
+- Cargamos con initdb para que inicie con toda la configuración:
 
 ```bash
   sudo /usr/bin/postgresql-setup initdb
