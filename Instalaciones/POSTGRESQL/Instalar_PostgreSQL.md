@@ -47,7 +47,7 @@ Descarga e instala PostgreSQL según la versión de tu sistema operativo Windows
 - Habilita el servicio dentro del sistema para su uso:
 
 ```bash
-  sudo dnf install postgresql-server
+  sudo systemctl enable postgresql
 ```
 
 - Iniciamos el servicio:
