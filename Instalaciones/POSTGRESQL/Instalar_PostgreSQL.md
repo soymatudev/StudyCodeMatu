@@ -93,3 +93,9 @@ Descarga e instala PostgreSQL según la versión de tu sistema operativo Windows
 ```bash
   sudo journalctl -xeu postgresql.service
 ```
+
+### 3. Para modificar el archivo de configuración
+
+```bash
+  sudo nano /var/lib/pgsql/data/pg_hba.conf
+```
